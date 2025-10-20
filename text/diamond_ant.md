@@ -23,7 +23,7 @@
 
 图 1.1
 
-![先绕制一个正方形](https://postimg.cc/ZC6brmK1)
+![先绕制一个正方形](https://i.postimg.cc/xT4XVTrT/IMG-20251016-221529.jpg)
 
 图 1.2
 
