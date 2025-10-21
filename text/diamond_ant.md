@@ -17,13 +17,11 @@
 
 这里给出弯折的步骤，给初学者一个参考，防止大家弯错方向，走弯路。
 
-
-
 ![弯折步骤](./images/diamond-step-line.drawio.png)
 
 图 1.1
 
-![先绕制一个正方形](https://i.postimg.cc/xT4XVTrT/IMG-20251016-221529.jpg)
+![先绕制一个正方形](./images/step-first-fifth.jpg)
 
 图 1.2
 
@@ -32,7 +30,4 @@
 ![使用直尺测量长度](./images/rule.jpg)
 
 图 1.3
-
-
-
 
