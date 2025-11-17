@@ -1,0 +1,16 @@
+{
+  "name": "ant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "bookforge html --input ./text --output ./public/html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.13.1",
+  "devDependencies": {
+    "bookforge": "^1.0.4"
+  }
+}

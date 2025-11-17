@@ -62,7 +62,7 @@
 
 这个接线柱的大小恰好合适焊接在图 2.2 的背面。焊接到铜管之前，将和铜管接触的凹槽直接展开，用壁纸刀刮一下表面，浸润一下松香，然后上锡。
 
-![](weld-points-prepare.jpg)
+![](images/weld-points-prepare.jpg)
 
 图 2.4
 
