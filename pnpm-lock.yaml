@@ -9,8 +9,8 @@ importers:
   .:
     devDependencies:
       bookforge:
-        specifier: ^1.1.1
-        version: 1.1.1
+        specifier: ^1.1.2
+        version: 1.1.2
 
 packages:
 
@@ -77,8 +77,8 @@ packages:
       bare-abort-controller:
         optional: true
 
-  bare-fs@4.5.1:
-    resolution: {integrity: sha512-zGUCsm3yv/ePt2PHNbVxjjn0nNB1MkIaR4wOCxJ2ig5pCf5cCVAYJXVhQg/3OhhJV6DB1ts7Hv0oUaElc2TPQg==}
+  bare-fs@4.5.2:
+    resolution: {integrity: sha512-veTnRzkb6aPHOvSKIOy60KzURfBdUflr5VReI+NSaPL6xf+XLdONQgZgpYvUuZLVQ8dCqxpBAudaOM1+KpAUxw==}
     engines: {bare: '>=1.16.0'}
     peerDependencies:
       bare-buffer: '*'
@@ -111,8 +111,8 @@ packages:
     resolution: {integrity: sha512-4Bcg1P8xhUuqcii/S0Z9wiHIrQVPMermM1any+MX5GeGD7faD3/msQUDGLol9wOcz4/jbg/WJnGqoJF6LiBdtg==}
     engines: {node: '>=10.0.0'}
 
-  bookforge@1.1.1:
-    resolution: {integrity: sha512-+elImCdtue++ghc80ZPrGng2elkAjHNjM+lJ8/s05qRuIy9gQ5RmVXqvFbjJLjVs0iiwY0KRmArIjoD1XwuYNA==}
+  bookforge@1.1.2:
+    resolution: {integrity: sha512-uFVTNUpsTS9I1OxIb+uc5kvuiTOXBgp7gsoxnyyB/3M5DQEKuOZe9FHSHy4MZXTE3LM61lB2i9S5NwTQ8/poXQ==}
     engines: {node: '>=20.0.0'}
     hasBin: true
 
@@ -521,7 +521,7 @@ snapshots:
 
   bare-events@2.8.2: {}
 
-  bare-fs@4.5.1:
+  bare-fs@4.5.2:
     dependencies:
       bare-events: 2.8.2
       bare-path: 3.0.0
@@ -558,7 +558,7 @@ snapshots:
 
   basic-ftp@5.0.5: {}
 
-  bookforge@1.1.1:
+  bookforge@1.1.2:
     dependencies:
       chalk: 5.6.2
       commander: 14.0.2
@@ -896,7 +896,7 @@ snapshots:
       pump: 3.0.3
       tar-stream: 3.1.7
     optionalDependencies:
-      bare-fs: 4.5.1
+      bare-fs: 4.5.2
       bare-path: 3.0.0
     transitivePeerDependencies:
       - bare-abort-controller
