@@ -9,8 +9,8 @@ importers:
   .:
     devDependencies:
       bookforge:
-        specifier: ^1.3.0
-        version: 1.3.0
+        specifier: ^1.3.1
+        version: 1.3.1
 
 packages:
 
@@ -114,8 +114,8 @@ packages:
   bluebird@3.7.2:
     resolution: {integrity: sha512-XpNj6GDQzdfW+r2Wnn7xiSAd7TM3jzkxGXBGTtWKuSXv1xUV+azxAm8jdWZN06QTQk+2N2XB9jRDkvbmQmcRtg==}
 
-  bookforge@1.3.0:
-    resolution: {integrity: sha512-D2B98wklD/QthLQDeiQG7lnbh7c2vkKY0wgIZ6NBWHRpDWxL3Vsx86uBwaxzxeNeYShqMmqUp6o1AW/Aq0fjSA==}
+  bookforge@1.3.1:
+    resolution: {integrity: sha512-8pDSdqghp6ng0XMsJOb/ojAg8JVOfgXQKFE5B9o3FHbIwv2X8LoGp569Lvh9TRU/Dnyw1I8Q/VsR7B+FeW+j8Q==}
     engines: {node: '>=20.0.0'}
     hasBin: true
 
@@ -618,7 +618,7 @@ snapshots:
 
   bluebird@3.7.2: {}
 
-  bookforge@1.3.0:
+  bookforge@1.3.1:
     dependencies:
       chalk: 5.6.2
       commander: 14.0.2
