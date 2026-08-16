@@ -9,8 +9,8 @@ importers:
   .:
     devDependencies:
       bookforge:
-        specifier: ^1.4.0
-        version: 1.4.0
+        specifier: ^1.5.1
+        version: 1.5.1
 
 packages:
 
@@ -117,8 +117,8 @@ packages:
   bluebird@3.7.2:
     resolution: {integrity: sha512-XpNj6GDQzdfW+r2Wnn7xiSAd7TM3jzkxGXBGTtWKuSXv1xUV+azxAm8jdWZN06QTQk+2N2XB9jRDkvbmQmcRtg==}
 
-  bookforge@1.4.0:
-    resolution: {integrity: sha512-wNrffiXkTWJJWICqcFX6A+QV52cxscS0HkQ+6sMrvyx2s2iiE8CV0Ytn+n8TLBTGYmj3o+TB6kXLMsOzFocx6Q==}
+  bookforge@1.5.1:
+    resolution: {integrity: sha512-wKvY6tr6+Ex1FVhS95HIvjTMQpeJlP5QXDU1JSK/QGKhkCXpyIg4Z+9c8Kdh++oekJMO/3N21rwYqBy2l20IkA==}
     engines: {node: '>=20.0.0'}
     hasBin: true
 
@@ -527,6 +527,11 @@ packages:
     resolution: {integrity: sha512-0pfFzegeDWJHJIAmTLRP2DwHjdF5s7jo9tuztdQxAhINCdvS+3nGINqPd00AphqJR/0LhANUS6/+7SCb98YOfA==}
     engines: {node: '>=10'}
 
+  yaml@2.9.0:
+    resolution: {integrity: sha512-2AvhNX3mb8zd6Zy7INTtSpl1F15HW6Wnqj0srWlkKLcpYl/gMIMJiyuGq2KeI2YFxUPjdlB+3Lc10seMLtL4cA==}
+    engines: {node: '>= 14.6'}
+    hasBin: true
+
   yargs-parser@21.1.1:
     resolution: {integrity: sha512-tVpsJW7DdjecAiFpbIB1e3qxIQsE6NoPc5/eTdrbbIC4h0LVsWhnoa3g+m2HclBIujHzsxZ4VJVA+GUuc2/LBw==}
     engines: {node: '>=12'}
@@ -648,7 +653,7 @@ snapshots:
 
   bluebird@3.7.2: {}
 
-  bookforge@1.4.0:
+  bookforge@1.5.1:
     dependencies:
       '@fast-csv/parse': 5.0.5
       chalk: 5.6.2
@@ -659,6 +664,7 @@ snapshots:
       node-slogger: 3.0.1
       puppeteer: 24.37.3
       unzipper: 0.12.3
+      yaml: 2.9.0
     transitivePeerDependencies:
       - bare-abort-controller
       - bare-buffer
@@ -1105,6 +1111,8 @@ snapshots:
   ws@8.19.0: {}
 
   y18n@5.0.8: {}
+
+  yaml@2.9.0: {}
 
   yargs-parser@21.1.1: {}
 

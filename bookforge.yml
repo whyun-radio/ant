@@ -1,0 +1,12 @@
+giscus:
+  repo: "whyun-radio/ant"
+  repoId: "R_kgDOQF0ttw"
+  category: "General"                  # 或其他分类
+  categoryId: "DIC_kwDOQF0tt84DDe_r"   # General 对应的 ID
+  mapping: "pathname"
+  theme: "preferred_color_scheme"
+  lang: "zh-CN"
+
+navLinks:
+  - text: GitHub
+    url: https://github.com/whyun-radio/ant
